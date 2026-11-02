@@ -1,0 +1,17 @@
+{
+  "id": "./index.html",
+  "name": "O2 Rewards & Menu",
+  "short_name": "O2 Rewards",
+  "description": "برنامج الولاء وقائمة الطعام التفاعلية لـ O2",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#dc2626",
+  "icons": [
+    { "src": "assets/media/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/media/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
